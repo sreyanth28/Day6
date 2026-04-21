@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\bin\Debug\net10.0\Publisher.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\bin\Debug\net10.0\Publisher.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\bin\Debug\net10.0\Publisher.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\bin\Debug\net10.0\Publisher.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\bin\Debug\net10.0\Publisher.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\refint\Publisher.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\Publisher.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\Publisher\obj\Debug\net10.0\ref\Publisher.dll

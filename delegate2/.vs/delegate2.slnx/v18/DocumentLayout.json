@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\delegate2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A96E-909F-4D38-AAAB-8386B488A787}|delegate2.csproj|c:\\users\\sreya\\desktop\\wipronfsd\\day6\\delegate2\\delgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A36A96E-909F-4D38-AAAB-8386B488A787}|delegate2.csproj|solutionrelative:delgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A96E-909F-4D38-AAAB-8386B488A787}|delegate2.csproj|c:\\users\\sreya\\desktop\\wipronfsd\\day6\\delegate2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A36A96E-909F-4D38-AAAB-8386B488A787}|delegate2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delgate.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\delegate2\\delgate.cs",
+              "RelativeDocumentMoniker": "delgate.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\delegate2\\delgate.cs",
+              "RelativeToolTip": "delgate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:25:20.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\delegate2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\delegate2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:24:58.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\singledelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D730E-39A6-44BB-92F4-BF270ABFA5E7}|singledelegate.csproj|c:\\users\\sreya\\desktop\\wipronfsd\\day6\\singledelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D730E-39A6-44BB-92F4-BF270ABFA5E7}|singledelegate.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D730E-39A6-44BB-92F4-BF270ABFA5E7}|singledelegate.csproj|c:\\users\\sreya\\desktop\\wipronfsd\\day6\\singledelegate\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D730E-39A6-44BB-92F4-BF270ABFA5E7}|singledelegate.csproj|solutionrelative:email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\singledelegate\\Email.cs",
+              "RelativeDocumentMoniker": "Email.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\singledelegate\\Email.cs",
+              "RelativeToolTip": "Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:40:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\singledelegate\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\WiproNFSD\\Day6\\singledelegate\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:40:00.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

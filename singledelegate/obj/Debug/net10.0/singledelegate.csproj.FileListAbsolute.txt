@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\bin\Debug\net10.0\singledelegate.exe
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\bin\Debug\net10.0\singledelegate.deps.json
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\bin\Debug\net10.0\singledelegate.runtimeconfig.json
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\bin\Debug\net10.0\singledelegate.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\bin\Debug\net10.0\singledelegate.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.AssemblyInfo.cs
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\refint\singledelegate.dll
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.pdb
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\singledelegate.genruntimeconfig.cache
+C:\Users\sreya\Desktop\WiproNFSD\Day6\singledelegate\obj\Debug\net10.0\ref\singledelegate.dll
